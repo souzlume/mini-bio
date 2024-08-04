@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(112, 212, 230, 0.863);
+}
+header img{
+    margin: 50px;
+    margin-bottom: 10px;
+    border-radius: 100%;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(245, 118, 196);
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+main p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 65%;
+    text-align: justify;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(245, 118, 196);
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+footer figure{
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 300px;
+    margin: auto;
+    margin-left: 50px;
+    margin-top: 0;
+}
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+  }
+.filmesconteiner {
+   display: flex;
+}
+.musicasconteiner {
+    display: flex;
+}
